@@ -16,6 +16,9 @@ body {
 }
 
 @media(max-width: 1024px) {
+  body {
+    overflow: hidden;
+  }
   .planet {
     width: 20em;
     height: 20em;
